@@ -1,10 +1,10 @@
-package primitive;
+package intqs;
 
-public class primitivedata {
+public class Reverse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int a=1;
+
 	}
 
 }
