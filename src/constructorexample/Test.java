@@ -2,9 +2,11 @@ package constructorexample;
 
 public class Test {
 
+	public static   Test t;
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
+		 t=new Test();
 	}
 
 }

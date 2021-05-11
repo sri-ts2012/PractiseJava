@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class LoopExamples {
 
-	public static void main(String[] args) {
+	public static void main(String2Example[] args) {
 		
 		System.out.println("enter the table you want ");
 		Scanner n=new Scanner(System.in);

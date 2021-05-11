@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 
 public class Arraysexample {
 
-	public static void main(String[] args) {
+	public static void main(String2Example[] args) {
 		
 	/*	int[] array1=new int[10];
 		

@@ -2,7 +2,7 @@ package Basic;
 
 public class Stringexamples {
 
-	public static void main(String[] args) {
+	public static void main(String2Example[] args) {
 		String s1="Rah";
 		
 				String s2="Rah";
