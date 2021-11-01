@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="265" started-at="2021-07-29T13:36:45Z" finished-at="2021-07-29T13:36:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="265" started-at="2021-07-29T13:36:45Z" finished-at="2021-07-29T13:36:45Z">
+      <class name="streams.test1">
+        <test-method status="PASS" signature="streamCollect()[pri:0, instance:streams.test1@100fc185]" name="streamCollect" duration-ms="140" started-at="2021-07-29T13:36:45Z" finished-at="2021-07-29T13:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+        <test-method status="PASS" signature="streamMap()[pri:0, instance:streams.test1@100fc185]" name="streamMap" duration-ms="83" started-at="2021-07-29T13:36:45Z" finished-at="2021-07-29T13:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamMap -->
+      </class> <!-- streams.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
